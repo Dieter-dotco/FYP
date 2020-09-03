@@ -1,6 +1,6 @@
 # FYP(TBC)
 
-[![Build Status]
+[![Build Status]]
 
 The Final Year Year project--- "Rechargable battery capacity measurement using Arduino"(current name)
 Group member:
