@@ -2,7 +2,7 @@
 
 
 
-The Final Year Year project--- "Rechargable battery capacity measurement using Arduino"(current name)
+The Final Year Year project--- "Rechargable battery capacity measurement using Arduino"
 Group member:
   - Chan Yun Sang
   - Hui Kam Lam 
@@ -10,7 +10,7 @@ Group member:
 
 # Main Features
 
-To be added later
+  - Check the battery capacity
 
 
 
