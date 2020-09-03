@@ -4,7 +4,7 @@
 
 The Final Year Year project--- "Rechargable battery capacity measurement using Arduino"
 Group member:
-  - Chan Yun Sang
+  - Chan Yun Sang Ethan
   - Hui Kam Lam 
   - Ho Tik Yan Dieter
 
